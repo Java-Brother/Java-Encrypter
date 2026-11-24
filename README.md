@@ -13,6 +13,13 @@ A very innovative Java Encrypt-er
 >zip files of java to make multiple folders and files
 >to one file that java can run as well.
 >Here are the downloads<br>
-[RAM-Friendly Jar File](./Downloads/Memory%20Friendly/Crypter.jar?raw=true)<br>
-[Non-RAM-Friendly Jar File](./Downloads/Non-Memory%20Friendly/Crypter.jar?raw=true)<br>
-[Terminal mode Jar File](./Downloads/Terminal%20Tool/Crypter.jar?raw=true)<br>
+[**RAM-Friendly** *Jar File*](./Downloads/Memory%20Friendly/Crypter.jar?raw=true)<br>
+[**Non-RAM-Friendly** *Jar File*](./Downloads/Non-Memory%20Friendly/Crypter.jar?raw=true)<br>
+[**Terminal Mode** *Jar File*](./Downloads/Terminal%20Tool/Crypter.jar?raw=true)
+## Source Files
+>These are for people who want to modify/read the source
+>code to understand how it works for those people....
+>These are the links<br>
+[*Source Code for* **RAM Friendly package**](./Downloads/Memory%20Friendly/Source.tar.zst?raw=true)<br>
+[*Source Code for* **Non-RAM Friendly package**](./Downloads/Non-Memory%20Friendly/Source.tar.zst?raw=true)<br>
+[*Source Code for* **Terminal Mode package**](./Downloads/Terminal%20Tool/Source.tar.zst?raw=true)
