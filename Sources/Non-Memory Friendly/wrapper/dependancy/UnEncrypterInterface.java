@@ -208,6 +208,12 @@ public class UnEncrypterInterface implements MainFrameInterface{
                         isValid[1]=false;
                         isValid[2]=false;
                     }
+                    catch(IndexOutOfBoundsException e1){
+                        progressText.setText("Mission:"+id+" Failed because data might be corrupted :(");
+                        System.err.println("Mission:"+id+" Failed because data might be corrupted :(");
+                        isValid[0]=false;
+                        isValid[1]=false;
+                    }
                     catch(Exception e1){
                         progressText.setText("Mission:"+id+" Failed :(");
                         System.err.println("Mission:"+id+" Failed :(");

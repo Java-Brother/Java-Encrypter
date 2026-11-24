@@ -43,13 +43,7 @@ public class Caller{
                         System.exit(1);
                     }
                 }
-                try{
-                    new Manifest().eun(passable[0], passable[1], passable[2]);
-                }
-                catch(NullPointerException e){
-                    System.err.println("Not Enough Argumeants type -h to see use");
-                    System.exit(1);
-                }
+                new Manifest().eun(passable[0], passable[1], passable[2]);
             }
             else{
                 System.err.println("Not Enough Argumeants type -h to see use");
@@ -86,13 +80,7 @@ public class Caller{
                         System.exit(1);
                     }
                 }
-                try{
-                    new Manifest().en(passable[0], passable[1], passable[2], Integer.parseInt(passable[3]));
-                }
-                catch(NullPointerException e){
-                    System.err.println("Not Enough Argumeants type -h to see use");
-                    System.exit(1);
-                }
+                new Manifest().en(passable[0], passable[1], passable[2], Integer.parseInt(passable[3]));
             }
             else{
                 System.err.println("Not Enough Argumeants type -h to see use");

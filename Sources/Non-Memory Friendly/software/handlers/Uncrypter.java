@@ -15,16 +15,11 @@ public class Uncrypter{
             box.scramble(packet[0]);
             String[] parsed=packet[1].split("");
             for(int j=0 ; j<parsed.length ; j++){
-                try{
-                    if(parsed[j].equals("\u0000")){
-                        uncrypt+=box.solve(parsed[++j]).toUpperCase();
-                    }
-                    else{
-                        uncrypt+=box.solve(parsed[j]);
-                    }
+                if(parsed[j].equals("\u0000")){
+                    uncrypt+=box.solve(parsed[++j]).toUpperCase();
                 }
-                catch(ArrayIndexOutOfBoundsException e){
-                    System.out.println("Nice try Buddy");
+                else{
+                    uncrypt+=box.solve(parsed[j]);
                 }
             }
             box.replace(uncrypt, i);
