@@ -23,3 +23,9 @@ A very innovative Java Encrypt-er
 [*Source Code for* **RAM Friendly package**](./Downloads/Memory%20Friendly/Source.tar.zst?raw=true)<br>
 [*Source Code for* **Non-RAM Friendly package**](./Downloads/Non-Memory%20Friendly/Source.tar.zst?raw=true)<br>
 [*Source Code for* **Terminal Mode package**](./Downloads/Terminal%20Tool/Source.tar.zst?raw=true)
+## Other things....
+>This is just a hobby project nothing special<br>
+>It is very basic encrypter though it is highly<br>
+>inconvenient to carry keys and share to others<br>
+>but... zip with password might work or you can code<br>
+>a key generator. So yeah... Bye!
