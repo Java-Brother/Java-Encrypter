@@ -1,6 +1,6 @@
-# Java-Encrypter
+# ***Java-Encrypter***
 A very innovative Java Encrypt-er
-## How Does it work
+## *How Does it work*
 >Find it yourself as it is too complex to explain with words
 ## *LICENSE*
 >This project is under **GNU GENERAL PUBLIC LICENSE 2.0**.<br>
