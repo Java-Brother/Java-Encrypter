@@ -8,6 +8,7 @@ A very innovative Java Encrypt-er
 >**NO WARRANTY** any fork or re-publishing of this<br>
 >project should be under **GNU GENERAL PUBLIC LICENSE 2.0**.<br>
 >There are no exception whatsoever<br>
+>And yes this project is free under this license :)
 ## Jar Download
 >If you don't know what are jar files they are special<br>
 >zip files of java to make multiple folders and files<br>
