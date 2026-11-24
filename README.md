@@ -12,7 +12,7 @@ A very innovative Java Encrypt-er
 >If you don't know what are jar files they are special
 >zip files of java to make multiple folders and files
 >to one file that java can run as well.
->Here are the downloads
+>Here are the downloads<br>
 [RAM-Friendly Jar File](./Downloads/Memory%20Friendly/Crypter.jar?raw=true)<br>
 [Non-RAM-Friendly Jar File](./Downloads/Non-Memory%20Friendly/Crypter.jar?raw=true)<br>
 [Terminal mode Jar File](./Downloads/Terminal%20Tool/Crypter.jar?raw=true)<br>
