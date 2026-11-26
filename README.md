@@ -10,8 +10,8 @@ A very innovative Java Encrypt-er
 >There are no exception whatsoever<br>
 >And yes this project is free under this license :)
 ## Downloads
-> go to releases page or click the link below
-[]()
+> go to tags page or click the link below
+[Go To release tag page](https://github.com/Java-Brother/Java-Encrypter/releases/tag/App_Images)
 ## *Other things....*
 >This is just a hobby project nothing special<br>
 >It is very basic encrypt-er though it is highly<br>
